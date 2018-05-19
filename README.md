@@ -7,4 +7,3 @@ Mispelling tolerant tf-idf similarity metric
 - https://github.com/TeamCohen/secondstring
 - https://github.com/anhaidgroup/py_stringmatching/blob/master/py_stringmatching/similarity_measure/soft_tfidf.py
 - http://www.cs.cmu.edu/~wcohen/10-605/simjoins-catchup.pdf
-- 
