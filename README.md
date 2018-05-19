@@ -18,5 +18,4 @@ Mispelling tolerant tf-idf similarity metric
 For example, if Illinois appears in 20 documents and Ilinois appears in 5 documents, shoudl we try to combine these into document frequency of 25 (or something like that)?
 3. When calculating overlapping sets, what do we do with similar tokens that appear in the same document. What if Illinois and Ilinois appear in same document?
 4. How sensitive is performance to the choice of D?
-
-
+5. What is the justification for having the D term? If dist is the probability that w and v were supposed to be the same token, I could see a reason. But in that case, truncating at θ would not be principled, though that's likely true for any meaning of dist.
