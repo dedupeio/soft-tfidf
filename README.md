@@ -11,7 +11,7 @@ Mispelling tolerant tf-idf similarity metric
 ## Original Definition
 ![Originial definition from "A Comparison of String Distance Metrics for Name-Matching Tasks"](./soft-tfidf-definition.png)
  
- In this definition from ["A Comparison of String Distance Metrics for Name-Matching Tasks"](https://web.archive.org/web/20150706104118/https://www.cs.cmu.edu/~pradeepr/papers/ijcai03.pdf), I believe that "dist'" was meant to be "sim'".
+ In this definition from ["A Comparison of String Distance Metrics for Name-Matching Tasks"](https://web.archive.org/web/20150706104118/https://www.cs.cmu.edu/~pradeepr/papers/ijcai03.pdf), I believe that "dist'(w,v) > θ" was meant to be "sim'(w,v) > θ".
  
  ## Questions
 1.  I don't see any necessity for the measure that defines closeness to be the same measure used in D. If that's true, the performance of this measure could be dramatically improved by using an data structure to quickly find strings that are within some levenshtein distance from the target string. Something like Levenshtein_search
