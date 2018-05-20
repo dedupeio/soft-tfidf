@@ -8,6 +8,7 @@ Mispelling tolerant tf-idf similarity metric
 - https://github.com/anhaidgroup/py_stringmatching/blob/master/py_stringmatching/similarity_measure/soft_tfidf.py
 - [Robust similarity measures for named entities matching](https://hal.archives-ouvertes.fr/hal-00487084/document)
 - https://github.com/chrismattmann/tika-similarity/blob/980855b225856712cc07b7e7830df80225779a9f/metalevenshtein.py
+- https://nlp.cic.ipn.mx/Publications/2011/SC%20spectra%20-%20soft%20cardinality%20for%20text%20comparison.pdf
 
 
 ## Original Definition
