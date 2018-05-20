@@ -6,6 +6,9 @@ Mispelling tolerant tf-idf similarity metric
 - [A Comparison of String Distance Metrics for Name-Matching Tasks](https://web.archive.org/web/20150706104118/https://www.cs.cmu.edu/~pradeepr/papers/ijcai03.pdf)
 - https://github.com/TeamCohen/secondstring
 - https://github.com/anhaidgroup/py_stringmatching/blob/master/py_stringmatching/similarity_measure/soft_tfidf.py
+- [Robust similarity measures for named entities matching](https://hal.archives-ouvertes.fr/hal-00487084/document)
+- https://github.com/chrismattmann/tika-similarity/blob/980855b225856712cc07b7e7830df80225779a9f/metalevenshtein.py
+
 
 ## Original Definition
 ![Originial definition from "A Comparison of String Distance Metrics for Name-Matching Tasks"](./soft-tfidf-definition.png)
