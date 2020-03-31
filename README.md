@@ -1,6 +1,8 @@
 # soft-tfidf
 Mispelling tolerant tf-idf similarity metric
 
+Part of the [Dedupe.io](https://dedupe.io/) cloud service and open source toolset for de-duplicating and finding fuzzy matches in your data.
+
 ## Prior art
 - https://github.com/openvenues/lieu/blob/8299d499186720c759331dca025c172214708fc0/lib/lieu/similarity.py#L13
 - [A Comparison of String Distance Metrics for Name-Matching Tasks](https://web.archive.org/web/20150706104118/https://www.cs.cmu.edu/~pradeepr/papers/ijcai03.pdf)
